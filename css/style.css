@@ -1,0 +1,13 @@
+.container{
+	width:640px;
+	height:640px;
+	margin:50px auto;
+}
+.tile{
+	width:30px;
+	height:30px;
+	border: 1px solid black;
+	border-radius: 5px;
+	display:inline-block;
+	margin:0 3px;
+}
